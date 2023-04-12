@@ -7,13 +7,13 @@ main:
 #    url: "/#-news"
 
   - title: "Research"
-    url: "/#-Research"
+    url: "/#-research"
 
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
   - title: "CV"
-    url: "/#-CV"
+    url: "/#-cv"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
