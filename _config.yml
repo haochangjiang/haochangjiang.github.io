@@ -7,16 +7,16 @@
 
 # Site Settings
 title                    : "Haochang Jiang - Homepage"
-description              : "Ph.D. candidate<br>Tsinghua University; ESO"
+description              : "Ph.D. candidate <br>Tsinghua University; ESO"
 repository               : "haochangjiang/haochangjiang.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
-google_analytics_id      :  get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-G49J3X92YH
 
 # SEO Related
-google_site_verification :  get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  h9K4dpE1tTtKv_yOxEPiea-M-uTNUxzjKBW3dXQHLi4
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
