@@ -15,8 +15,8 @@ google_scholar_stats_use_cdn : False
 google_analytics_id      :  G-G49J3X92YH
 
 # SEO Related
-google_site_verification :  h9K4dpE1tTtKv_yOxEPiea-M-uTNUxzjKBW3dXQHLi4
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  dRF8neImgXysiGcuYSiQpKmrSJ1NMRIbXYbdyImKsAA
+bing_site_verification   :  4A73DB9A8023F5D384D71A61B774372C
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
