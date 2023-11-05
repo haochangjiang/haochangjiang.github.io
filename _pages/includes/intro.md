@@ -1,0 +1,5 @@
+## Hi there! 
+
+I am a graduate student at Tsinghua University, where I have been advised by [Chris Ormel](http://i.astro.tsinghua.edu.cn/~cormel/NewSite/) since 2019. Thanks to an [ESO reach studentship](http://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html)， I am currently based at the ESO Garching headquarters, under the supervision of [Enrique Macías](https://sites.google.com/view/emacias/home).
+
+I was born in a mining community in [Yunnan](https://en.wikipedia.org/wiki/Yunnan) province, in the southwestern part of China, where I spent my joyful childhood til the age of 8. Due to the decline of the mining industry and the pursuit of better education opportunities for me, my parents moved away from the small mining town back to their hometown, Qujing, and 7 years later, we made our way to the capital of Yunnan province, Kunming. After I finished my elementary education in Kunming, I moved to USTC in Hefei for my bachelor's degree before entering Tsinghua. In my spare time, I enjoy movies, music, and swimming.
