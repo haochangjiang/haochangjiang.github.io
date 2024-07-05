@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haochang Jiang (蒋昊昌) - Homepage"
-description              : "Ph.D. candidate <br>Tsinghua University; ESO"
+description              : "Postdoctoral Fellow <br>PSF department, MPIA"
 repository               : "haochangjiang/haochangjiang.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -24,11 +24,11 @@ author:
   name             : "Haochang Jiang"
   avatar           : "images/2023_4_ESO.jpg"
   bio              : "蒋昊昌"
-  location         : "Garching bei München, Germany"
+  location         : "Königstuhl 17, 69117 Heidelberg"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QQwYYqsAAAAJ"
-  email            : "Haochang.Jiang@eso.org"
+  email            : "h-jiang@mpia.de"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
